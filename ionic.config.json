@@ -1,5 +1,8 @@
 {
   "name": "wishapp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }
